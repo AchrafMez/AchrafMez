@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</p>
+  
+  
+  <h3 align="center"
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AchrafMez/count.svg" />
+</p>
 
 📈 my github stats :
 ---------------
