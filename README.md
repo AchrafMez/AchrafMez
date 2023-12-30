@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 ---------------
 
-| [![AchrafMez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafMez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories) [![AchrafMez's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafMez&layout=compact&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories)
+ [![AchrafMez's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafMez&layout=compact&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories)
 
