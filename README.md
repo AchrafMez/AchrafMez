@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ashrafmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashrafmez" height="30" width="40" /></a>
 <a href="https://discord.gg/captaiin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="captaiin1" height="30" width="40" /></a>
 </p>
+
 | [![AchrafMez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafMez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories) [![AchrafMez's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafMez&layout=compact&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories)
 
 
