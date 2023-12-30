@@ -25,6 +25,19 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Captain</h1>
 <h3 align="center">Passionate Software Engenering student.</h3>
 
+
+---------------
+[![amezioun's 42 stats](https://badge.mediaplus.ma/greenbinary/amezioun)](https://github.com/oakoudad/badge42)
+
+
+---------------
+
+| [![AchrafMez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafMez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories) [![AchrafMez's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafMez&layout=compact&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories)
+
+
+---------------
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achrfmeziouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achrfmeziouni" height="30" width="40" /></a>
@@ -47,5 +60,3 @@ Here are some ideas to get you started:
 
 | [![AchrafMez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafMez&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories) [![AchrafMez's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafMez&layout=compact&hide_border=true&theme=jolly)](https://github.com/AchrafMez?tab=repositories)
 
----------------
-[![amezioun's 42 stats](https://badge.mediaplus.ma/greenbinary/amezioun)](https://github.com/oakoudad/badge42)
