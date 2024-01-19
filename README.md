@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ---------------
-[![amezioun's 42 stats](https://badge.mediaplus.ma/greenbinary/amezioun)](https://github.com/oakoudad/badge42)
+[![youel-id's 42 stats](https://badge.mediaplus.ma/greenbinary/youel-id)](https://github.com/oakoudad/badge42)
 
 ---------------
 
